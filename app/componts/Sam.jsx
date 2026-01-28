@@ -95,7 +95,7 @@ function Sam() {
                     <div className="p-8 space-y-4">
                         <h3 className="text-2xl font-bold text-slate-900">GeM Registration</h3>
                         <p className="text-slate-500 text-sm leading-relaxed">Private limited, LLP, OPC registration with government filling and DSC / KM support.</p>
-                        <a href="#" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
+                        <Link href="/gem-registration" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</Link>
                     </div>
                 </div>
 
@@ -108,7 +108,7 @@ function Sam() {
                     <div className="p-8 space-y-4">
                         <h3 className="text-2xl font-bold text-slate-900">GST Registration</h3>
                         <p className="text-slate-500 text-sm leading-relaxed">New registrations, amendments, cancellation and GST return assistance for all entities.</p>
-                        <a href="#" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
+                        <Link href="/gst-registration" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</Link>
                     </div>
                 </div>
 
@@ -121,7 +121,7 @@ function Sam() {
                     <div className="p-8 space-y-4">
                         <h3 className="text-2xl font-bold text-slate-900">IEC / Import Export</h3>
                         <p className="text-slate-500 text-sm leading-relaxed">IEC code for exporters/importers with expert documentation and global compliance support.</p>
-                        <a href="#" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
+                        <Link href="/iec-registration" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</Link>
                     </div>
                 </div>
 
@@ -147,7 +147,7 @@ function Sam() {
                     <div className="p-8 space-y-4">
                         <h3 className="text-2xl font-bold text-slate-900">FSSAI / Food License</h3>
                         <p className="text-slate-500 text-sm leading-relaxed">Food licensing (Basic, State, Central) and renewals for restaurants and FMCG startups.</p>
-                        <a href="#" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
+                        <Link href="/fssai-registration" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</Link>
                     </div>
                 </div>
 
@@ -160,7 +160,7 @@ function Sam() {
                     <div className="p-8 space-y-4">
                         <h3 className="text-2xl font-bold text-slate-900">ISO Certification</h3>
                         <p className="text-slate-500 text-sm leading-relaxed">ISO 9001, 14001, etc. & expert consultancy for audits to boost your global credibility.</p>
-                        <a href="#" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
+                        <a href="/iso-registration" className="inline-block text-amber-600 font-bold border-b-2 border-amber-100 hover:border-amber-600 transition pb-1">Apply Now &rarr;</a>
                     </div>
                 </div>
             </div>

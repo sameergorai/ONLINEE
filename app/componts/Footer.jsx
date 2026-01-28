@@ -37,7 +37,7 @@ function Footer() {
                         <h4 className="text-white font-bold mb-8 uppercase tracking-widest text-xs">Services</h4>
                         <ul className="space-y-4 text-sm">
                             <li><Link href="/msme-registration" className="hover:text-amber-500 transition">MSME Registration</Link></li>
-                            <li><a href="#" className="hover:text-amber-500 transition">FSSAI / Food License</a></li>
+                            <li><Link href="" className="hover:text-amber-500 transition">FSSAI / Food License</Link></li>
                             <li><a href="#" className="hover:text-amber-500 transition">ISO Certification</a></li>
                             <li><a href="#" className="hover:text-amber-500 transition">GST Filling</a></li>
                         </ul>
